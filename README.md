@@ -12,8 +12,8 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 ### 1. Cloner le projet
 
 ```bash
-git clone <URL_DU_REPOSITORY>
-cd <NOM_DU_PROJET>
+git clone https://github.com/HoussainAT/tp-jsonserver-f1.git
+cd tp-jsonserver-f1
 ```
 
 ### 2. Installer les dépendances
