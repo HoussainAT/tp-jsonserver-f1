@@ -1,4 +1,4 @@
-const api_url = "http://localhost:5000/drivers";
+const api_url = "http://localhost:3000/drivers";
 
 export const getDrivers = async () => {
   const response = await fetch(api_url);
