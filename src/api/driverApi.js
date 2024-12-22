@@ -36,6 +36,6 @@ export const deleteUser = async (id) => {
     return response.json();
   } catch (error) {
     console.error("Error deleting user:", error);
-    throw error; // Rethrow the error to be handled by the calling code
+    throw error;
   }
 };
